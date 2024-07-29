@@ -254,6 +254,11 @@ jobs:
           dexcom_upload_readings \
           future_carbs_4h \
           low_carb_limit \
+          now_line \
+          watch_title \
+          meal_week \
+          basal_lock \
+          live_activity \
           no_auth
 
           # the final customization listed above CANNOT have a continuation character "\"
